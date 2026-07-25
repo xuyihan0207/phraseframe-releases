@@ -1,0 +1,51 @@
+name: Bug report
+description: Report a reproducible problem in the latest Windows beta
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Remove private notes, personal paths, and real media before submitting.
+        Do not use a public issue for a security vulnerability.
+  - type: input
+    id: version
+    attributes:
+      label: Application version
+      placeholder: 0.1.0-beta.1
+    validations:
+      required: true
+  - type: dropdown
+    id: installer
+    attributes:
+      label: Installer type
+      options:
+        - NSIS Setup.exe
+        - MSI
+        - Unknown
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      description: Provide the smallest sequence that reproduces the problem.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: Actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Windows version and additional context
