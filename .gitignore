@@ -1,0 +1,14 @@
+# Release binaries belong in GitHub Release assets, not Git history.
+artifacts/
+*.exe
+*.msi
+*.zip
+*.sha256
+
+# Local and sensitive files
+.env
+.env.*
+*.log
+*.tmp
+Desktop.ini
+Thumbs.db

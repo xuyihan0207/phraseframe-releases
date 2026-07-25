@@ -1,0 +1,79 @@
+PHRASEFRAME FREE BETA LICENSE AGREEMENT
+
+Version date: July 24, 2026
+
+IMPORTANT: PLEASE READ THIS AGREEMENT BEFORE INSTALLING OR USING PHRASEFRAME
+(THE "SOFTWARE"). BY INSTALLING OR USING THE SOFTWARE, YOU AGREE TO THESE
+TERMS. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE THE SOFTWARE.
+
+1. LICENSE GRANT
+
+The copyright holder grants you a limited, non-exclusive, non-transferable,
+revocable license to install and use the Software free of charge for personal
+evaluation, learning, and note-taking during the beta period.
+
+2. RESTRICTIONS
+
+Except where applicable law expressly permits otherwise, you may not:
+
+- copy or redistribute the Software or its installers;
+- sell, rent, lease, sublicense, or commercially provide the Software;
+- modify, reverse engineer, decompile, or attempt to derive its source code;
+- remove or alter copyright, license, or ownership notices; or
+- use the Software to create or distribute a competing derivative product.
+
+Written permission from the copyright holder is required for any use not
+expressly allowed by this Agreement.
+
+3. OWNERSHIP
+
+The Software is licensed, not sold. The copyright holder retains all right,
+title, and interest in the Software. This Agreement does not grant rights to
+the product name, logos, or other branding.
+
+4. USER DATA
+
+The Software stores notes and workspace files in locations selected by you.
+You are responsible for maintaining backups and verifying that important data
+has been saved. Uninstalling the application normally does not remove a
+user-selected workspace, but you should still back up important data before
+installation, upgrade, or removal.
+
+5. BETA SOFTWARE
+
+The Software is a pre-release beta and may contain defects, change without
+notice, or be discontinued. Features, file formats, availability, and future
+pricing may change in later versions.
+
+6. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OF
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, OR DATA PRESERVATION.
+
+7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER WILL NOT BE
+LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES,
+OR FOR LOSS OF DATA, PROFITS, OR BUSINESS, ARISING FROM THE SOFTWARE OR THIS
+AGREEMENT.
+
+8. TERMINATION
+
+This license terminates automatically if you breach this Agreement. Upon
+termination, you must stop using and remove the Software. Sections concerning
+ownership, warranty, liability, and restrictions survive termination.
+
+9. FUTURE VERSIONS
+
+The copyright holder may offer future versions under different terms,
+including paid, subscription, commercial, source-available, or open-source
+terms. This Agreement applies only to the Software version distributed with
+it.
+
+10. ENTIRE AGREEMENT
+
+This Agreement is the complete agreement for the free beta license unless the
+copyright holder provides separate written terms.
+
+Copyright (c) 2026 PhraseFrame. All rights reserved.
