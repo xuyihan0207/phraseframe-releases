@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0-beta.1 — Pending publication
+## 0.1.0-beta.1 — 2026-07-25
 
 Initial free proprietary Windows beta.
 
